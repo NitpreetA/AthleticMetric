@@ -58,6 +58,8 @@ Our mission with this project is to develop a centralised hub to store player st
 http://localhost:3000/
 
 ## Authors
-Nitpreet Arneja 
+Nitpreet Arneja
+
 Aidan Grant-Ushinsky
+
 Ron Fudim 
