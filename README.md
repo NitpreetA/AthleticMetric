@@ -9,8 +9,17 @@ Full MERN stack
 Our mission with this project is to develop a centralised hub to store player statistics. Frequently, individual sports will have their respective websites for their stats, and as avid sports followers, it can get tedious to go from webpage to webpage. Therefore, we want to develop a sleek, modern, accessible and straightforward interface, displaying heaps of information regarding goals scored, ages, names, teams and so on, for all mainstream sports.
 
 ## Screenshots
+- Home Screen
+  
+![HomeScreen](https://github.com/NitpreetA/AthleticMetric/assets/98350822/ebbc270d-fb2e-4d91-a4bc-397abdaaf281)
 
+- The Teams for each respective sport
+  
+![ExamplePage](https://github.com/NitpreetA/AthleticMetric/assets/98350822/bc7eebcc-da63-4f5a-8123-e9f034c07ea0)
 
+- The admin panel that would allow you to create teams players and stats
+
+![Options](https://github.com/NitpreetA/AthleticMetric/assets/98350822/d155f9f4-61d6-4c06-a677-30b9f056890d)
 
 ## Using Website 
 ### When visting deployment
@@ -47,3 +56,8 @@ Our mission with this project is to develop a centralised hub to store player st
    
 8) Navigate to the following URL to access the frontend page:
 http://localhost:3000/
+
+## Authors
+Nitpreet Arneja 
+Aidan Grant-Ushinsky
+Ron Fudim 
